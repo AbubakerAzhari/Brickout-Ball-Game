@@ -32,10 +32,7 @@ Build using [Java Swing libraries](https://docs.oracle.com/javase/7/docs/api/jav
 
 <img width="696" height="598" alt="1" src="https://github.com/user-attachments/assets/9cef2594-6a2a-44c5-8922-b572145f7748" />
 
-![1](https://github.com/AbikoAzh/Java-Swing-Game-brick-Breaker/assets/165510364/f7b97314-f2f5-447b-ade2-c08e1e6b840a)
-
-![2](https://github.com/AbikoAzh/Java-Swing-Game-brick-Breaker/assets/165510364/4a215e59-de55-45a7-bba4-744cf0177522)
-
+<img width="696" height="598" alt="2" src="https://github.com/user-attachments/assets/4a47fe83-8d02-4284-b504-2f591407e3ed" />
 
 ### License:
 [MIT](https://choosealicense.com/licenses/mit/)
